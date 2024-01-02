@@ -28,10 +28,12 @@
   ],
   "extends": [
     "eslint:recommended",
+    "plugin:react/recommended",
     "plugin:@typescript-eslint/recommended",
     "plugin:css-import-order/recommended",
     "plugin:react-hooks/recommended",
     "plugin:jest-dom/recommended",
+    "plugin:storybook/recommended",
     "prettier"
   ],
   "ignorePatterns": ["cypress.config.ts"],
