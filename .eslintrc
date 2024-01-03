@@ -33,6 +33,7 @@
     "plugin:css-import-order/recommended",
     "plugin:react-hooks/recommended",
     "plugin:jest-dom/recommended",
+    "plugin:tailwindcss/recommended",
     "plugin:storybook/recommended",
     "prettier"
   ],
@@ -41,6 +42,7 @@
     "prettier/prettier": "error",
     "camelcase": "off",
     "react/prop-types": "off",
+    "react/display-name": "off",
     "react/jsx-filename-extension": "off",
     "react/jsx-props-no-spreading": "off",
     "react/no-unused-prop-types": "off",
